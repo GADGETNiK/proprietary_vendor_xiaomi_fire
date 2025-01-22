@@ -333,6 +333,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/firmware/WMT_SOC.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/WMT_SOC.cfg \
     vendor/xiaomi/fire/proprietary/vendor/firmware/aw87xxx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87xxx_acf.bin \
     vendor/xiaomi/fire/proprietary/vendor/firmware/fm_cust.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/fm_cust.cfg \
+    vendor/xiaomi/fire/proprietary/vendor/firmware/focaltech_ft8720_hx.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8720_hx.ini \
+    vendor/xiaomi/fire/proprietary/vendor/firmware/focaltech_ft8725_2_hx.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8725_2_hx.ini \
+    vendor/xiaomi/fire/proprietary/vendor/firmware/focaltech_ft8725_hx.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8725_hx.ini \
     vendor/xiaomi/fire/proprietary/vendor/firmware/lib3a.ccu:$(TARGET_COPY_OUT_VENDOR)/firmware/lib3a.ccu \
     vendor/xiaomi/fire/proprietary/vendor/firmware/mt6631_fm_v1_coeff.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6631_fm_v1_coeff.bin \
     vendor/xiaomi/fire/proprietary/vendor/firmware/mt6631_fm_v1_patch.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6631_fm_v1_patch.bin \
